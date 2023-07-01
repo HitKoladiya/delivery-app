@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "997326285975",
+    "project_id": "foodking-f6b9b",
+    "storage_bucket": "foodking-f6b9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997326285975:android:c26e5b1978b7f22a464dd2",
+        "android_client_info": {
+          "package_name": "com.inilabs.foodking.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997326285975-nck94dojr54ua2jf451s6012h9jqn605.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6429-fKdFzs5Cc3tKis20Hjk_qEP9Vwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997326285975-nck94dojr54ua2jf451s6012h9jqn605.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "997326285975-1m5m8btqvphp9f6pps3g998bqoqkqrvr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.foodking.user.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
